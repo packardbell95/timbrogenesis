@@ -368,9 +368,8 @@ you can do it with an audio editor such as
    resulting sound was shifted up by two octaves.
 5. Enjoy your new and strange sound effect 🎶
 
-<video controls preload="metadata" src="misc/evo-fun.webm">
-    <a href="misc/evo-fun.webm">Watch the sound effects demonstration</a>
-</video>
+[evo-fun.webm](https://github.com/user-attachments/assets/6363cd96-3394-48af-9f08-f0d59dad8d13)
+
 
 ## Links
 - [Post by MySpace Tom on Agora Road's Macintosh Café explaining the spectral morph operations of this software](https://forum.agoraroad.com/index.php?threads/agora-roads-tech-weekly.9276/#post-205806)
