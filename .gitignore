@@ -1,0 +1,21 @@
+# Build products
+/build/
+/build-*/
+/cmake-build-*/
+/CMakeUserPresets.json
+
+# Generated audio, run metadata, and temporary working files
+/prepared/
+/output/
+/Temporary/
+
+# Local tooling and editor files
+/.agents/
+/.codex/
+/.aws/
+/.idea/
+/.vscode/
+.DS_Store
+*~
+*.swp
+*.swo
